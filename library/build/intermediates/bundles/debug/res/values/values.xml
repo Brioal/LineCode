@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="reference" name="SwipeBackLayoutStyle"/>
+    <color name="colorAccent">#1d897f</color>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#009688</color>
+    <color name="color_blank">#787878</color>
+    <color name="color_blank_dark">#000000</color>
+    <color name="color_gray">#44000000</color>
+    <color name="color_refresh1">#0c51e4</color>
+    <color name="color_refresh2">#477ddf</color>
+    <color name="color_refresh3">#0ca0ae</color>
+    <color name="color_refresh4">#de5252</color>
+    <color name="color_trans">#00000000</color>
+    <color name="color_white">#ffffff</color>
+    <declare-styleable name="SwipeBackLayout"><attr format="dimension" name="edge_size"/><attr name="edge_flag"><enum name="left" value="0"/><enum name="right" value="1"/><enum name="bottom" value="2"/><enum name="all" value="3"/></attr><attr format="reference" name="shadow_left"/><attr format="reference" name="shadow_right"/><attr format="reference" name="shadow_bottom"/></declare-styleable>
+    <style name="SwipeBackLayout">
+        <item name="edge_size">50dip</item>
+        <item name="shadow_left">@drawable/shadow_left</item>
+        <item name="shadow_right">@drawable/shadow_right</item>
+        <item name="shadow_bottom">@drawable/shadow_bottom</item>
+    </style>
+</resources>

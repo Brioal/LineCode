@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fe9000</color>
+    <color name="colorPrimaryDark">#fe9000</color>
+    <color name="colorAccent">#007EFE</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_refresh1">#0c51e4</color>
+    <color name="color_refresh2">#477ddf</color>
+    <color name="color_refresh3">#0ca0ae</color>
+    <color name="color_refresh4">#de5252</color>
+    <color name="color_blank">#787878</color>
+    <color name="color_gray">#44000000</color>
+    <color name="color_blank_dark">#000000</color>
+    <color name="color_trans">#00000000</color>
+    <color name="color_text_main" >#e5131212</color>
+    <color name="color_text_sub">#787878</color>
+    <color name="color_back_launcher">#007EFE</color>
+</resources>
